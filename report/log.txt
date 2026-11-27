@@ -1,3 +1,10 @@
+* ecc6dce 배터리 경고 기준 추가
+* e7357e4 배터리 설정 추가
+*   4aeb328 Merge pull request #2 from 2000-4/feature/speed-up
+|\  
+| * 623a5d7 속도 2.5로 변경
+|/  
+* f99430c 작업 기록 저장
 *   53b770a Merge pull request #1 from 2000-4/feature/sensor
 |\  
 | * 5fc657e 센서 설정 추가
