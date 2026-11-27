@@ -1,0 +1,16 @@
+*   53b770a Merge pull request #1 from 2000-4/feature/sensor
+|\  
+| * 5fc657e 센서 설정 추가
+|/  
+*   cf275b4 속도 1.5로 충돌 해결
+|\  
+| * 9edbeba 속도 2.0으로 변경
+* | f76a61c 속도 1.5로 충돌 해결
+|/  
+*   f864cc2 Merge branch 'main' of https://github.com/2000-4/final-day15
+|\  
+| * 5c11556 README 설명 추가
+* | d954e7b 팀원 목록 추가
+|/  
+* 4a2bfbb 설정 파일 추가
+* 69c1e70 Initial commit
